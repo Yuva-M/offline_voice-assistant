@@ -51,6 +51,16 @@ This repository contains an offline AI voice assistant that seamlessly integrate
 
 ## Installation
 
+### System Requirement: eSpeak NG
+
+- Ensure **eSpeak NG** is installed on your system:
+  - **Windows**: [Download the MSI installer](https://github.com/espeak-ng/espeak-ng/releases) and install it.
+  - **Linux / Raspberry Pi**: Use the following command:
+    ```bash
+    sudo apt install espeak-ng
+    ```
+
+---
 1. **Clone the repository**:
 
    ```bash
