@@ -1,0 +1,5 @@
+whisper
+pyttsx3
+SpeechRecognition
+sounddevice
+soundfile
